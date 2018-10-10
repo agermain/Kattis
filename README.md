@@ -1,5 +1,5 @@
 # Kattis Solutions
-These are my solutions across multiple languages to the problems on https://open.kattis.com/. 
+These are my solutions across multiple languages to the problems on https://open.kattis.com/.
 
 ## Problems
 | Problem | Languages | :link: |
@@ -23,6 +23,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Filip | [Go](https://github.com/apg258/Kattis/blob/master/Go/Filip.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip) |
 | FizzBuzz | [Go](https://github.com/apg258/Kattis/blob/master/Go/FizzBuzz.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
 | Grass Seed Inc. | [Go](https://github.com/apg258/Kattis/blob/master/Go/Grass%20Seed%20Inc..go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
+| Hanging Out on the Terrace | [Go](https://github.com/apg258/Kattis/blob/master/Go/Hanging%20Out%20on%20the%20Terrace.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout) |
 | Heart Rate | [Go](https://github.com/apg258/Kattis/blob/master/Go/Heart%20Rate.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
 | Help a PhD candidate out! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Help%20a%20PhD%20candidate%20out!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/helpaphd) |
 | Hissing Microphone | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Hissing%20Microphone.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
