@@ -22,6 +22,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Faktor | [Go](https://github.com/apg258/Kattis/blob/master/Go/Faktor.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
 | Filip | [Go](https://github.com/apg258/Kattis/blob/master/Go/Filip.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip) |
 | FizzBuzz | [Go](https://github.com/apg258/Kattis/blob/master/Go/FizzBuzz.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
+| Flying Safely | [Go](https://github.com/apg258/Kattis/blob/master/Go/Flying%20Safely.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/flyingsafely) |
 | Grass Seed Inc. | [Go](https://github.com/apg258/Kattis/blob/master/Go/Grass%20Seed%20Inc..go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
 | Hanging Out on the Terrace | [Go](https://github.com/apg258/Kattis/blob/master/Go/Hanging%20Out%20on%20the%20Terrace.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout) |
 | Heart Rate | [Go](https://github.com/apg258/Kattis/blob/master/Go/Heart%20Rate.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
