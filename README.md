@@ -6,6 +6,7 @@ These are my solutions across multiple languages to the problems on https://open
 | - | - | - |
 | A Different Problem | [Go](https://github.com/apg258/Kattis/blob/master/Go/A%20Different%20Problem.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | ABC | [Go](https://github.com/apg258/Kattis/blob/master/Go/ABC.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
+| Aaah! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Aaah!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | Apaxiaaaaaaaaaaaans! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Apaxiaaaaaaaaaaaans.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | Autori | [Go](https://github.com/apg258/Kattis/blob/master/Go/Autori.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | Batter Up | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Batter%20Up.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
@@ -43,6 +44,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Pet | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Pet.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
 | Planina | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Planina.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina) |
 | Quadrant Selection| [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Quadrant%20Selection.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
+| Phone List | [Go](https://github.com/apg258/Kattis/blob/master/Go/Phone%20List.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/phonelist) |
 | Pot | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Pot.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
 | R2 | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/R2.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
 | Reversed Binary Numbers | [Go](https://github.com/apg258/Kattis/blob/master/Go/Reversed%20Binary%20Numbers.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reversebinary) |
