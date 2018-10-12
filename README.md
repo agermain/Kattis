@@ -50,6 +50,7 @@ These are my solutions across multiple languages to the problems on https://open
 | R2 | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/R2.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
 | Reversed Binary Numbers | [Go](https://github.com/apg258/Kattis/blob/master/Go/Reversed%20Binary%20Numbers.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reversebinary) |
 | Rhyming Slang | [Go](https://github.com/apg258/Kattis/blob/master/Go/Rhyming%20Slang.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/rhyming) |
+| Riječi | [Go](https://github.com/apg258/Kattis/blob/master/Go/Rijeci.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/rijeci) |
 | Secret Santa | [Go](https://github.com/apg258/Kattis/blob/master/Go/Secret%20Santa.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/secretsanta) |
 | Seven Wonders | [Go](https://github.com/apg258/Kattis/blob/master/Go/Seven%20Wonders.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 | Sibice | [Go](https://github.com/apg258/Kattis/blob/master/Go/Sibice.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
