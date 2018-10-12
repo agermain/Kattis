@@ -5,6 +5,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Problem | Languages | :link: |
 | - | - | - |
 | A Different Problem | [Go](https://github.com/apg258/Kattis/blob/master/Go/A%20Different%20Problem.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
+| A New Alphabet | [Go](https://github.com/apg258/Kattis/blob/master/Go/A%20New%20Alphabet.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
 | ABC | [Go](https://github.com/apg258/Kattis/blob/master/Go/ABC.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
 | Aaah! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Aaah!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | Apaxiaaaaaaaaaaaans! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Apaxiaaaaaaaaaaaans.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
