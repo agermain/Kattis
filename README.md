@@ -38,6 +38,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Jabuke | [Go](https://github.com/apg258/Kattis/blob/master/Go/Jabuke.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jabuke) |
 | Kornislav | [Go](https://github.com/apg258/Kattis/blob/master/Go/Kornislav.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kornislav) |
 | Ladder | [Go](https://github.com/apg258/Kattis/blob/master/Go/Ladder.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder) |
+| Mixed Fractions | [Go](https://github.com/apg258/Kattis/blob/master/Go/Mixed%20Fractions.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions) |
 | Modulo | [Go](https://github.com/apg258/Kattis/blob/master/Go/Modulo.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/modulo) |
 | Nasty Hacks | [Go](https://github.com/apg258/Kattis/blob/master/Go/Nasty%20Hacks.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | No Duplicates | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/No%20Duplicates.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
