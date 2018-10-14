@@ -44,8 +44,10 @@ These are my solutions across multiple languages to the problems on https://open
 | No Duplicates | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/No%20Duplicates.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
 | Oddities | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Oddities.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
 | One Chicken Per Person! | [Go](https://github.com/apg258/Kattis/blob/master/Go/One%20Chicken%20Per%20Person!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/onechicken) |
+| Parking2 | [Go](https://github.com/apg258/Kattis/blob/master/Go/Parking2.go) | [![:cat:](https://open.kattis.com/problems/parking2) |
 | Pet | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Pet.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
 | Planina | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Planina.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina) |
+| Quick Brown Fox| [Python 3](https://github.com/apg258/Kattis/blob/master/Python%203/Quick%20Brown%20Fox.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickbrownfox) |
 | Quadrant Selection| [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Quadrant%20Selection.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
 | Phone List | [Go](https://github.com/apg258/Kattis/blob/master/Go/Phone%20List.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/phonelist) |
 | Pot | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Pot.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
