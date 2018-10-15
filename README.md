@@ -43,6 +43,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Nasty Hacks | [Go](https://github.com/apg258/Kattis/blob/master/Go/Nasty%20Hacks.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | No Duplicates | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/No%20Duplicates.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
 | Oddities | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Oddities.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
+| Odd Man Out | [Go](https://github.com/apg258/Kattis/blob/master/Go/Odd%20Man%20Out.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddmanout) |
 | One Chicken Per Person! | [Go](https://github.com/apg258/Kattis/blob/master/Go/One%20Chicken%20Per%20Person!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/onechicken) |
 | Parking2 | [Go](https://github.com/apg258/Kattis/blob/master/Go/Parking2.go) | [![:cat:](https://open.kattis.com/problems/parking2) |
 | Pet | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Pet.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
@@ -59,6 +60,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Seven Wonders | [Go](https://github.com/apg258/Kattis/blob/master/Go/Seven%20Wonders.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 | Sibice | [Go](https://github.com/apg258/Kattis/blob/master/Go/Sibice.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
 | Simon Says | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Simon%20Says.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simonsays) |
+| Slatkisi | [Go](https://github.com/apg258/Kattis/blob/master/Go/Slatkisi.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/slatkisi) |
 | Solving for Carrots | [Go](https://github.com/apg258/Kattis/blob/master/Go/Solving%20for%20Carrots.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) |
 | Spavanac | [Go](https://github.com/apg258/Kattis/blob/master/Go/Spavanac.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
 | Speed Limit | [Go](https://github.com/apg258/Kattis/blob/master/Go/Speed%20Limit.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
