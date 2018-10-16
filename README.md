@@ -11,6 +11,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Apaxiaaaaaaaaaaaans! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Apaxiaaaaaaaaaaaans.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | Autori | [Go](https://github.com/apg258/Kattis/blob/master/Go/Autori.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | Baby Bites | [Go](https://github.com/apg258/Kattis/blob/master/Go/Baby%20Bites.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babybites) |
+| Backspace | [Python 3](https://github.com/apg258/Kattis/blob/master/Python%203/Backspace) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/backspace) |
 | Batter Up | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Batter%20Up.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
 | Bela | [Go](https://github.com/apg258/Kattis/blob/master/Go/Bela.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | Bijele | [Go](https://github.com/apg258/Kattis/blob/master/Go/Bijele.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
