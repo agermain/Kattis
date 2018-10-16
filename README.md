@@ -29,6 +29,7 @@ These are my solutions across multiple languages to the problems on https://open
 | FizzBuzz | [Go](https://github.com/apg258/Kattis/blob/master/Go/FizzBuzz.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
 | Flying Safely | [Go](https://github.com/apg258/Kattis/blob/master/Go/Flying%20Safely.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/flyingsafely) |
 | Grass Seed Inc. | [Go](https://github.com/apg258/Kattis/blob/master/Go/Grass%20Seed%20Inc..go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
+| Guess the Number | [Go](https://github.com/apg258/Kattis/blob/master/Go/Guess%20the%20Number.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/guess) |
 | Hanging Out on the Terrace | [Go](https://github.com/apg258/Kattis/blob/master/Go/Hanging%20Out%20on%20the%20Terrace.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout) |
 | Heart Rate | [Go](https://github.com/apg258/Kattis/blob/master/Go/Heart%20Rate.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
 | Help a PhD candidate out! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Help%20a%20PhD%20candidate%20out!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/helpaphd) |
@@ -46,7 +47,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Oddities | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Oddities.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
 | Odd Man Out | [Go](https://github.com/apg258/Kattis/blob/master/Go/Odd%20Man%20Out.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddmanout) |
 | One Chicken Per Person! | [Go](https://github.com/apg258/Kattis/blob/master/Go/One%20Chicken%20Per%20Person!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/onechicken) |
-| Parking2 | [Go](https://github.com/apg258/Kattis/blob/master/Go/Parking2.go) | [![:cat:](https://open.kattis.com/problems/parking2) |
+| Parking2 | [Go](https://github.com/apg258/Kattis/blob/master/Go/Parking2.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/parking2) |
 | Pet | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Pet.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
 | Planina | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Planina.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina) |
 | Quick Brown Fox| [Python 3](https://github.com/apg258/Kattis/blob/master/Python%203/Quick%20Brown%20Fox.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickbrownfox) |
