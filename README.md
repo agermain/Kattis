@@ -17,6 +17,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Bijele | [Go](https://github.com/apg258/Kattis/blob/master/Go/Bijele.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
 | Boat Parts | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Boat%20Parts.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/boatparts) |
 | Bus | [Go](https://github.com/apg258/Kattis/blob/master/Go/Bus.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bus) |
+| Bus Numbers| [Go](https://github.com/apg258/Kattis/blob/master/Go/Bus%20Numbers.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/busnumbers) |
 | CD | [Go](https://github.com/apg258/Kattis/blob/master/Go/CD.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cd) |
 | Cetvrta | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Cetvrta.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta) |
 | Cold-puter Science | [Go](https://github.com/apg258/Kattis/blob/master/Go/Cold-puter%20Science.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
@@ -38,6 +39,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Identifying Map Tiles | [Go](https://github.com/apg258/Kattis/blob/master/Go/Identifying%20Map%20Tiles.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/maptiles2) |
 | I've Been Everywhere, Man | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/I've%20Been%20Everywhere%2C%20Man.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 | Jabuke | [Go](https://github.com/apg258/Kattis/blob/master/Go/Jabuke.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jabuke) |
+| Judging Moose | [Go](https://github.com/apg258/Kattis/blob/master/Go/Judging%20Moose.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose) |
 | Kornislav | [Go](https://github.com/apg258/Kattis/blob/master/Go/Kornislav.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kornislav) |
 | Ladder | [Go](https://github.com/apg258/Kattis/blob/master/Go/Ladder.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder) |
 | Mixed Fractions | [Go](https://github.com/apg258/Kattis/blob/master/Go/Mixed%20Fractions.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions) |
