@@ -34,12 +34,14 @@ These are my solutions across multiple languages to the problems on https://open
 | Hanging Out on the Terrace | [Go](https://github.com/apg258/Kattis/blob/master/Go/Hanging%20Out%20on%20the%20Terrace.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout) |
 | Heart Rate | [Go](https://github.com/apg258/Kattis/blob/master/Go/Heart%20Rate.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate) |
 | Help a PhD candidate out! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Help%20a%20PhD%20candidate%20out!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/helpaphd) |
+| Hidden Password | [Go](https://github.com/apg258/Kattis/blob/master/Go/Hidden%20Password.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hidden) |
 | Hissing Microphone | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Hissing%20Microphone.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
 | ICPC Awards | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/ICPC%20Awards.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/icpcawards) |
 | Identifying Map Tiles | [Go](https://github.com/apg258/Kattis/blob/master/Go/Identifying%20Map%20Tiles.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/maptiles2) |
 | I've Been Everywhere, Man | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/I've%20Been%20Everywhere%2C%20Man.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 | Jabuke | [Go](https://github.com/apg258/Kattis/blob/master/Go/Jabuke.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/jabuke) |
 | Judging Moose | [Go](https://github.com/apg258/Kattis/blob/master/Go/Judging%20Moose.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose) |
+| Kemija | [Go](https://github.com/apg258/Kattis/blob/master/Go/Kemija.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kemija08) |
 | Kornislav | [Go](https://github.com/apg258/Kattis/blob/master/Go/Kornislav.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kornislav) |
 | Ladder | [Go](https://github.com/apg258/Kattis/blob/master/Go/Ladder.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder) |
 | Mixed Fractions | [Go](https://github.com/apg258/Kattis/blob/master/Go/Mixed%20Fractions.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions) |
