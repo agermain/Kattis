@@ -62,6 +62,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Phone List | [Go](https://github.com/apg258/Kattis/blob/master/Go/Phone%20List.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/phonelist) |
 | Pot | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Pot.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
 | R2 | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/R2.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
+| Reverse Rot | [Go](https://github.com/apg258/Kattis/blob/master/Go/Reverse%20Rot.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reverserot) |
 | Reversed Binary Numbers | [Go](https://github.com/apg258/Kattis/blob/master/Go/Reversed%20Binary%20Numbers.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reversebinary) |
 | Rhyming Slang | [Go](https://github.com/apg258/Kattis/blob/master/Go/Rhyming%20Slang.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/rhyming) |
 | Riječi | [Go](https://github.com/apg258/Kattis/blob/master/Go/Rijeci.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/rijeci) |
@@ -79,6 +80,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Tarifa | [Go](https://github.com/apg258/Kattis/blob/master/Go/Tarifa.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
 | The Amazing Human Cannonball | [Go](https://github.com/apg258/Kattis/blob/master/Go/The%20Amazing%20Human%20Cannonball.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/humancannonball2) |
 | The Easiest Problem Is This One | [Go](https://github.com/apg258/Kattis/blob/master/Go/The%20Easiest%20Problem%20Is%20This%20One.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/easiest) |
+| ToLower | [Go](https://github.com/apg258/Kattis/blob/master/Go/ToLower.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tolower) |
 | Trik | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Trik.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
 | Yoda | [Go](https://github.com/apg258/Kattis/blob/master/Go/Yoda.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
 | Zamka | [Go](https://github.com/apg258/Kattis/blob/master/Go/Zamka.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
