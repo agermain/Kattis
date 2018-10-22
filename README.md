@@ -8,6 +8,7 @@ These are my solutions across multiple languages to the problems on https://open
 | A New Alphabet | [Go](https://github.com/apg258/Kattis/blob/master/Go/A%20New%20Alphabet.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
 | ABC | [Go](https://github.com/apg258/Kattis/blob/master/Go/ABC.go)| [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
 | Aaah! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Aaah!.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
+| Above Average | [Go](https://github.com/apg258/Kattis/blob/master/Go/Above%20Average.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
 | Apaxiaaaaaaaaaaaans! | [Go](https://github.com/apg258/Kattis/blob/master/Go/Apaxiaaaaaaaaaaaans.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | Autori | [Go](https://github.com/apg258/Kattis/blob/master/Go/Autori.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | Babelfish | [Go](https://github.com/apg258/Kattis/blob/master/Go/Babelfish.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babelfish) |
@@ -47,6 +48,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Kemija | [Go](https://github.com/apg258/Kattis/blob/master/Go/Kemija.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kemija08) |
 | Kornislav | [Go](https://github.com/apg258/Kattis/blob/master/Go/Kornislav.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kornislav) |
 | Ladder | [Go](https://github.com/apg258/Kattis/blob/master/Go/Ladder.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder) |
+| Left Beehind | [Go](https://github.com/apg258/Kattis/blob/master/Go/Left%20Beehind.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/leftbeehind) |
 | Mixed Fractions | [Go](https://github.com/apg258/Kattis/blob/master/Go/Mixed%20Fractions.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions) |
 | Modulo | [Go](https://github.com/apg258/Kattis/blob/master/Go/Modulo.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/modulo) |
 | Nasty Hacks | [Go](https://github.com/apg258/Kattis/blob/master/Go/Nasty%20Hacks.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
@@ -69,7 +71,7 @@ These are my solutions across multiple languages to the problems on https://open
 | Secret Santa | [Go](https://github.com/apg258/Kattis/blob/master/Go/Secret%20Santa.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/secretsanta) |
 | Seven Wonders | [Go](https://github.com/apg258/Kattis/blob/master/Go/Seven%20Wonders.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 | Sibice | [Go](https://github.com/apg258/Kattis/blob/master/Go/Sibice.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
-| Simon Says | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Simon%20Says.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simonsays) |
+| Simon Says | [Python 3](https://github.com/apg258/Kattis/tree/master/Python%203/Simon%20Says.py), [Go](https://github.com/apg258/Kattis/blob/master/Go/Simon%20Says.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simonsays) |
 | Skocimis | [Go](https://github.com/apg258/Kattis/blob/master/Go/Skocimis.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skocimis) |
 | Slatkisi | [Go](https://github.com/apg258/Kattis/blob/master/Go/Slatkisi.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/slatkisi) |
 | Solving for Carrots | [Go](https://github.com/apg258/Kattis/blob/master/Go/Solving%20for%20Carrots.go) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) |
