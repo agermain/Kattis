@@ -1,0 +1,30 @@
+package main
+
+import (
+	"bufio"
+	"os"
+	"fmt"
+	"strings"
+)
+func toInt(buf []byte) (n int) {
+	for _, v := range buf {
+		n = n*10 + int(v-'0')
+	}
+	return
+}
+
+func main() {
+	scanner := bufio.NewScanner(os.Stdin)
+	scanner.Scan()
+	n:= toInt(scanner.Bytes())
+	for i:=0; i<n; i++ {
+		scanner.Scan()
+		s:= scanner.Text()
+		if strings.HasPrefix(s, "simon says ") {
+			fmt.Println(strings.TrimPrefix(s, "simon says "))
+		} else {
+			fmt.Println()
+		}
+	}
+}
+
