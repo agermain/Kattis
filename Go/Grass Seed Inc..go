@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 )
+
 func main() {
 	var a, r float64
 	var b int
@@ -13,5 +14,5 @@ func main() {
 		fmt.Scanln(&w, &l)
 		r = r + (w * l)
 	}
-	fmt.Print(r*a)
+	fmt.Print(r * a)
 }

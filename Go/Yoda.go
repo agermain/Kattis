@@ -16,9 +16,9 @@ func main() {
 			b = "0" + b
 		}
 	}
-	for i:=len(a)-1; i>=0; i-- {
-		t1, _ := strconv.Atoi(a[i:i+1])
-		t2, _:= strconv.Atoi(b[i:i+1])
+	for i := len(a) - 1; i >= 0; i-- {
+		t1, _ := strconv.Atoi(a[i : i+1])
+		t2, _ := strconv.Atoi(b[i : i+1])
 		if t1 == t2 {
 			continue
 		} else if t1 < t2 {
@@ -38,5 +38,5 @@ func main() {
 	} else {
 		r, _ := strconv.Atoi(b)
 		fmt.Printf("%d\n", r)
-		}
+	}
 }

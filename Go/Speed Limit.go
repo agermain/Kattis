@@ -4,14 +4,14 @@ import "fmt"
 
 func main() {
 
-	for;; {
+	for {
 		var a int
 		fmt.Scanln(&a)
 		if a == -1 {
 			break
 		}
 		var finalT, distance = 0, 0
-		for i:=0;i < a;i++{
+		for i := 0; i < a; i++ {
 			var speed, time int
 			fmt.Scanf("%d %d", &speed, &time)
 			time -= finalT

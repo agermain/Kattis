@@ -20,6 +20,6 @@ func main() {
 			break
 		}
 		fmt.Sscanf(scanner.Text(), "%d %d", &a, &b)
-		fmt.Println(abs(a-b))
+		fmt.Println(abs(a - b))
 	}
 }

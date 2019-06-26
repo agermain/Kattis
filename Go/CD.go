@@ -42,17 +42,17 @@ func main() {
 			break
 		}
 		c := 0
-		for i:=0; i < n; i++ {
+		for i := 0; i < n; i++ {
 			scanner.Scan()
 			jack = append(jack, toInt(scanner.Bytes()))
 		}
-		for i:= 0; i < m; i++ {
+		for i := 0; i < m; i++ {
 			scanner.Scan()
 			rs := binarySearch(jack, toInt(scanner.Bytes()))
 			if rs != -1 {
 				c++
 			}
 		}
-	fmt.Println(c)
+		fmt.Println(c)
 	}
 }

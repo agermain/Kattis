@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"math"
 )
+
 func compute(h, v float64) int {
-	v = v * math.Pi/180
-	return int(math.Ceil(h/math.Sin(v)))
+	v = v * math.Pi / 180
+	return int(math.Ceil(h / math.Sin(v)))
 }
 func main() {
 	var a, b float64

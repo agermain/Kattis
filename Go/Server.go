@@ -33,7 +33,7 @@ func main() {
 	scanner.Scan()
 	n := numbers(scanner.Text())
 	for j := 0; j < len(n); j++ {
-		if sum + n[j] <= b {
+		if sum+n[j] <= b {
 			sum += n[j]
 			c++
 		} else {
@@ -43,4 +43,3 @@ func main() {
 	fmt.Println(c)
 
 }
-

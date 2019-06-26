@@ -6,7 +6,7 @@ func main() {
 	var s string
 	var c int
 	fmt.Scanln(&s)
-	for i:=0; i<len(s); i+=3 {
+	for i := 0; i < len(s); i += 3 {
 		if string(s[i]) != "P" {
 			c++
 		}

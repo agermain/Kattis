@@ -2,8 +2,8 @@ package main
 
 import (
 	"bufio"
-	"os"
 	"fmt"
+	"os"
 )
 
 func toInt(buf []byte) (n int) {
@@ -13,17 +13,16 @@ func toInt(buf []byte) (n int) {
 	return
 }
 
-
 func main() {
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
 	n := toInt(scanner.Bytes())
 	var r float64
-	for i:=0; i<n; i++ {
+	for i := 0; i < n; i++ {
 		var a, b float64
 		scanner.Scan()
 		fmt.Sscanf(scanner.Text(), "%f %f", &a, &b)
-		r += a*b
+		r += a * b
 	}
 	fmt.Println(r)
 }

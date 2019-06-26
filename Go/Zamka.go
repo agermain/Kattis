@@ -1,9 +1,9 @@
 package main
 
 import (
-	"strconv"
 	"fmt"
 	"math"
+	"strconv"
 )
 
 func main() {
@@ -12,10 +12,10 @@ func main() {
 	fmt.Scanln(&l)
 	fmt.Scanln(&d)
 	fmt.Scanln(&x)
-	for i:=l; i<=d; i++ {
+	for i := l; i <= d; i++ {
 		s := strconv.Itoa(i)
-		for j:=0; j<len(s); j++ {
-			sum += int(s[j]-'0')
+		for j := 0; j < len(s); j++ {
+			sum += int(s[j] - '0')
 		}
 		if sum == x {
 			if i < n {

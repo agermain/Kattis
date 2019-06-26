@@ -18,7 +18,7 @@ func main() {
 	scanner.Scan()
 	n := toInt(scanner.Bytes())
 	a, b := 1, 0
-	for i:=0; i<n; i++ {
+	for i := 0; i < n; i++ {
 		t := a
 		a = b
 		b += t

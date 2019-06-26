@@ -7,7 +7,7 @@ import (
 func main() {
 	var a, c int
 	fmt.Scanln(&a)
-	for i:=0; i<a; i++ {
+	for i := 0; i < a; i++ {
 		var b int
 		fmt.Scanf("%d", &b)
 		if b < 0 {

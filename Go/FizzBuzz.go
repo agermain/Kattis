@@ -10,13 +10,13 @@ func main() {
 		if i%a == 0 && i%b == 0 {
 			fmt.Printf("FizzBuzz\n")
 			continue
-		}else if i%a == 0 {
+		} else if i%a == 0 {
 			fmt.Printf("Fizz\n")
 			continue
-		}else if i%b == 0 {
+		} else if i%b == 0 {
 			fmt.Printf("Buzz\n")
 			continue
-		}else{
+		} else {
 			fmt.Printf("%d\n", i)
 		}
 	}

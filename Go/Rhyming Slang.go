@@ -30,18 +30,18 @@ func main() {
 	scanner.Scan()
 	e := toInt(scanner.Bytes())
 	var sl [][]string
-	for i:=0; i<e; i++ {
+	for i := 0; i < e; i++ {
 		scanner.Scan()
 		sl = append(sl, strings.Split(scanner.Text(), " "))
 	}
 	scanner.Scan()
 	p := toInt(scanner.Bytes())
-	for i:=0; i<p; i++ {
+	for i := 0; i < p; i++ {
 		scanner.Scan()
 		s := scanner.Text()
 		b := false
-		for j:=0; j<len(sl); j++ {
-			if contains(sl[j], s) && contains(sl[j], w){
+		for j := 0; j < len(sl); j++ {
+			if contains(sl[j], s) && contains(sl[j], w) {
 				b = true
 				break
 			}

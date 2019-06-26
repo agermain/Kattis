@@ -11,7 +11,7 @@ func main() {
 	upper := 1000
 	lower := 1
 	for {
-		guess := (upper+lower)/2
+		guess := (upper + lower) / 2
 		fmt.Println(guess)
 		scanner.Scan()
 		s := scanner.Text()

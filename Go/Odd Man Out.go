@@ -18,7 +18,7 @@ func main() {
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
 	n := toInt(scanner.Bytes())
-	for i:=0; i<n; i++ {
+	for i := 0; i < n; i++ {
 		scanner.Scan()
 		scanner.Scan()
 		a := bytes.Split(scanner.Bytes(), []byte(" "))
@@ -27,7 +27,7 @@ func main() {
 			ints = append(ints, toInt(b))
 		}
 		var bx int
-		for j:=0; j<len(ints); j++ {
+		for j := 0; j < len(ints); j++ {
 			bx ^= ints[j]
 		}
 		fmt.Printf("Case #%d: %d\n", i+1, bx)

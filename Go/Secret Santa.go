@@ -11,14 +11,14 @@ func main() {
 	}
 	t = 1
 	v = 1
-	for i:=2; i<=a; i++ {
+	for i := 2; i <= a; i++ {
 		v *= float64(i)
-		if i % 2 == 0 {
-			t = t - 1 / v
-		}else {
-			t = t + 1 / v
+		if i%2 == 0 {
+			t = t - 1/v
+		} else {
+			t = t + 1/v
 		}
 
 	}
- fmt.Println(t)
+	fmt.Println(t)
 }

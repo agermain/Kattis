@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"strconv"
 )
+
 func Reverse(s string) string {
 	n := len(s)
 	runes := make([]rune, n)
@@ -22,7 +23,7 @@ func Max(x, y int64) int64 {
 func main() {
 	var a, b string
 	fmt.Scanln(&a, &b)
-	c, _ := strconv.ParseInt(Reverse(a), 10, 0 )
-	d, _ := strconv.ParseInt(Reverse(b), 10, 0 )
+	c, _ := strconv.ParseInt(Reverse(a), 10, 0)
+	d, _ := strconv.ParseInt(Reverse(b), 10, 0)
 	fmt.Printf("%d", Max(c, d))
 }

@@ -7,7 +7,6 @@ import (
 	"os"
 )
 
-
 func toInt(buf []byte) (n int) {
 	for _, v := range buf {
 		n = n*10 + int(v-'0')
@@ -32,7 +31,7 @@ func main() {
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
 	n := toInt(scanner.Bytes())
-	for i:=0; i<n; i++ {
+	for i := 0; i < n; i++ {
 		scanner.Scan()
 		ints := make([]int, toInt(scanner.Bytes()))
 		scanner.Scan()
@@ -41,6 +40,6 @@ func main() {
 			ints[i] = toInt(b)
 		}
 		x, y := MinMax(ints)
-		fmt.Println((y-x)*2)
+		fmt.Println((y - x) * 2)
 	}
 }

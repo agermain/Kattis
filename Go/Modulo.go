@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 )
+
 func contains(s []int, e int) bool {
 	for _, a := range s {
 		if a == e {
@@ -13,13 +14,13 @@ func contains(s []int, e int) bool {
 }
 func main() {
 	var r []int
-	for i:=0; i<10; i++ {
+	for i := 0; i < 10; i++ {
 		var a int
 		fmt.Scanln(&a)
-		v := a%42
+		v := a % 42
 		if !contains(r, v) {
 			r = append(r, v)
 		}
-		}
+	}
 	fmt.Println(len(r))
 }

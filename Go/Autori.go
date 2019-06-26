@@ -9,7 +9,7 @@ func main() {
 	var a, b string
 	fmt.Scanln(&a)
 	for _, char := range a {
-		if unicode.IsUpper(char){
+		if unicode.IsUpper(char) {
 			b += string(char)
 		}
 	}

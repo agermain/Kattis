@@ -1,11 +1,12 @@
 package main
 
 import (
-	"strings"
 	"bufio"
-	"os"
 	"fmt"
+	"os"
+	"strings"
 )
+
 func HasUpperCase(str string) bool {
 	for i, v := range str {
 		if i != 0 && string(v) == strings.ToUpper(string(v)) {
@@ -20,9 +21,9 @@ func main() {
 	scanner.Scan()
 	var n, m, c int
 	fmt.Sscanf(scanner.Text(), "%d %d", &n, &m)
-	for i:=0; i<n; i++ {
+	for i := 0; i < n; i++ {
 		solved := true
-		for i:=0; i<m; i++ {
+		for i := 0; i < m; i++ {
 			scanner.Scan()
 			if HasUpperCase(scanner.Text()) == false {
 				solved = false

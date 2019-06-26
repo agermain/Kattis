@@ -13,12 +13,11 @@ func toInt(buf []byte) (n int) {
 	return
 }
 
-
 func main() {
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
 	n := toInt(scanner.Bytes())
-	for i:=0; i<n; i++ {
+	for i := 0; i < n; i++ {
 		scanner.Scan()
 	}
 }

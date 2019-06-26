@@ -2,10 +2,10 @@ package main
 
 import (
 	"bufio"
-	"os"
 	"fmt"
-
+	"os"
 )
+
 func toInt(buf []byte) (n int) {
 	for _, v := range buf {
 		n = n*10 + int(v-'0')
@@ -16,7 +16,7 @@ func toInt(buf []byte) (n int) {
 func reverseRot(n int, s string) string {
 	sym := "ABCDEFGHIJKLMNOPQRSTUVWXYZ_."
 	m := make(map[string]int)
-	for i:=0; i<len(sym); i++ {
+	for i := 0; i < len(sym); i++ {
 		m[string(sym[i])] = i
 	}
 	s = Reverse(s)

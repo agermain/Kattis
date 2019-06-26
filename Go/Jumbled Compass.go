@@ -20,19 +20,19 @@ func main() {
 	n = toInt(scanner.Bytes())
 	scanner.Scan()
 	m = toInt(scanner.Bytes())
-	if n == m  {
+	if n == m {
 		fmt.Println("0")
 	} else if n < m {
-		v1 := m-n
-		v2 := (360-m)+n
+		v1 := m - n
+		v2 := (360 - m) + n
 		if v1 <= v2 {
 			fmt.Println(v1)
 		} else {
 			fmt.Println(-v2)
 		}
 	} else {
-		v1 := n-m
-		v2 := (360-n)+m
+		v1 := n - m
+		v2 := (360 - n) + m
 		if v1 < v2 {
 			fmt.Println(-v1)
 		} else {

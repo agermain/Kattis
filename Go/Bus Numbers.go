@@ -6,7 +6,6 @@ import (
 	"os"
 )
 
-
 func toInt(buf []byte) (n int) {
 	for _, v := range buf {
 		n = n*10 + int(v-'0')
@@ -23,11 +22,11 @@ func main() {
 		fmt.Println("too late")
 	} else {
 		sl := make([]bool, a+1)
-		for i:=0; i<b; i++ {
+		for i := 0; i < b; i++ {
 			scanner.Scan()
 			sl[toInt(scanner.Bytes())] = true
 		}
-		for i:=1; i<a+1; i++ {
+		for i := 1; i < a+1; i++ {
 			if sl[i] == false {
 				fmt.Println(i)
 				break

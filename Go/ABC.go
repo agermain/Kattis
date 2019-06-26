@@ -12,7 +12,7 @@ func main() {
 	fmt.Scanln(&s)
 	var l = []int{a, b, c}
 	sort.Ints(l)
-	for i:=0; i<3; i++ {
+	for i := 0; i < 3; i++ {
 		if string(s[i]) == "A" {
 			fmt.Printf("%d ", l[0])
 		} else if string(s[i]) == "B" {

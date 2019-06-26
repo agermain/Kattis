@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func indexOf(element string, data []string) (int) {
+func indexOf(element string, data []string) int {
 	for k, v := range data {
 		if element == v {
 			return k
@@ -21,7 +21,7 @@ func main() {
 	dom := []int{11, 4, 3, 20, 10, 14, 0, 0}
 	nonDom := []int{11, 4, 3, 2, 10, 0, 0, 0}
 	suits := []string{"A", "K", "Q", "J", "T", "9", "8", "7"}
-	for i:=0; i<h*4; i++ {
+	for i := 0; i < h*4; i++ {
 		var card string
 		fmt.Scanln(&card)
 		if string(card[1]) == s {
