@@ -1,11 +1,5 @@
-word = input()
-found = False
-for x in range(len(word)-1):
-    if word[x] == 's':
-        if word[x+1] == 's':
-            found = True
-            break
-if found == False:
-    print("no hiss")
+sound = input()
+if "ss" in sound:
+    print("hiss")
 else:
-    print ("hiss")
+    print("no hiss")
